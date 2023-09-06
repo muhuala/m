@@ -80,7 +80,7 @@ section
 }
 .main-btn:hover
 {
-    background:var(--primary-color);
+    background:var(--red-color);
     border-color:var(--primary-color);
     color:var(--text-white);
 }
